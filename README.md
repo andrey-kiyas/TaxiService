@@ -1,6 +1,4 @@
-<h1 align="center">
-Taxi Service
-</h1>
+<h1 align="center">Taxi Service</h1>
 
 ### Screenshots
 
