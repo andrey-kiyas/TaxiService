@@ -61,7 +61,7 @@
                         </execution>
                     </executions>
                     <configuration>
-                        <configLocation>${maven.checkstyle.plugin.configLocation}</configLocation>
+<!--                        <configLocation>${maven.checkstyle.plugin.configLocation}</configLocation>-->
                         <encoding>UTF-8</encoding>
                         <consoleOutput>true</consoleOutput>
                         <failsOnError>true</failsOnError>
